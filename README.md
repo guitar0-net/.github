@@ -1,1 +1,1 @@
-# Guitar 0 special .github repository
+# Guitar 0 special repository
