@@ -10,8 +10,10 @@ Free and open-source web-platform in order to help people learn how to play on g
 
 ## ✨ Projects
 
-- [Website](https://github.com/guitar0-net/web)
-- [Backend](https://github.com/guitar0-net/backend)
-- [Mobile app](https://guitar0.net) - soon
+<div align="center">
+  <a href="https://guitar0.net">Website</a> &nbsp;•&nbsp;
+  <a href="https://api.guitar0.net/api/v1/docs/redoc/">Backend</a> &nbsp;•&nbsp;
+  <a href="">Mobile app (soon)</a>
+</div>
 
 ---
